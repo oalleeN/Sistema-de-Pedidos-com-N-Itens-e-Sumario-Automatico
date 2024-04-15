@@ -1,5 +1,5 @@
 ## Introdução:
-Me deparei com essa questão no curso de Java OOP e achei pertinente a implementação dela aqui, principalmente por mostrar os métodos que foram utilizados por mim para a resolução da desafio. 
+Me deparei com essa questão no curso de Java OOP e achei pertinente a implementação dela aqui, principalmente por mostrar os métodos que foram utilizados por mim para a resolução do desafio. 
 
 ## Desafio proposto:
 <img src="https://github.com/oalleeN/Sistema-de-Pedidos-com-N-Itens-e-Sumario-Automatico/assets/125782386/f6548fc8-27e4-409d-91dd-171b3ac5f545" width="70%" height="70%">
